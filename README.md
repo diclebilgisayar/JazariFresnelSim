@@ -104,12 +104,12 @@ This simulator can be used for:
 If you use this project in your research, please cite:
 
 ```bibtex
-@software{jazari_fresnel_sim_2024,
+@software{jazari_fresnel_sim_2025,
   author = {Ataş, İsa},
   title = {Linear Fresnel Solar Simulator},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/your-username/JazariFresnelSim}
+  url = {https://github.com/diclebilgisayar/JazariFresnelSim}
 }
 ```
 
