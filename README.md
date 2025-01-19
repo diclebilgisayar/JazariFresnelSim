@@ -127,4 +127,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 İsa Ataş - [isa_atas@dicle.edu.tr](mailto:isa_atas@dicle.edu.tr)
 
-Project Link: [https://github.com/your-username/JazariFresnelSim](https://github.com/your-username/JazariFresnelSim)
+Project Link: [https://github.com/diclebilgisayar/JazariFresnelSim](https://github.com/diclebilgisayar/JazariFresnelSim)
